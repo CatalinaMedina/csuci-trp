@@ -7,5 +7,50 @@ execute:
   warning: false
 ---
 
+Due 1/23/2026
+
+[Example PDPs](https://drive.google.com/drive/folders/14SfD2_KuK7USqOcP55A8GHZljdzyMS5-)
+
+*The IDP should contain:*
+
+- goals for each of the 3 areas
+  - realistic to what I would like to do (916)-548-5542
+  - less than 500 words per area
+- Plan for 5 years to "associate" professor
+- Philosophy of service
+- Idea is to get us in the habit to nurture us later
+- Way to define who I am in my department / university, what I contribute. Where am I most valuable?
+
+My interests:
+
+- Introduction to data science textbook and educator materials
+- Increase community connections and impact
+
+Common feedback:
+
+- Ramp down my PDP, don't go too wide
+
+## Teaching
+
+- Having class data collection field trip(s) in DATA 308
+- Increase my pedagogical knowledge - personal development
 
 
+## Research 
+
+- Applied work, connecting with university research station and zoo
+- Getting students involved in these projects
+
+## Service
+
+Department level
+
+- Statistics and Data Science Curriculum committee
+  - Developing and refining Data Science BS launched in fall 2025
+  - Proposing and developing Statistics BS
+  - Proposing and developing Data Science Major
+
+School level
+
+
+University level
